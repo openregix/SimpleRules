@@ -4,7 +4,7 @@
 package ch.claudel.simpleRules;
 
 /**
- * @author p040186
+ * @author regis@claudel.ch
  *
  */
 public class SimpleRules {
