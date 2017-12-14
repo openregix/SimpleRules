@@ -16,6 +16,9 @@ public class SimpleRules {
 		
 		String msg = new String( "Intialization of SimpleRules");
 		System.out.println(msg);
+		msg = new String( "Other message");
+		System.out.println(msg);
+		
 	
 	}
 
