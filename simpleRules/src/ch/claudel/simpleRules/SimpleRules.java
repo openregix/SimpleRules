@@ -5,6 +5,8 @@ package ch.claudel.simpleRules;
 
 /**
  * @author regis@claudel.ch
+ * 
+ * This simple project aims to test GitHub mechanismes
  *
  */
 public class SimpleRules {
