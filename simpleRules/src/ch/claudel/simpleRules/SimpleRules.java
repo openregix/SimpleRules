@@ -16,8 +16,8 @@ public class SimpleRules {
 	 */
 	public static void main(String[] args) {
 		
-		String msg = new String( "Intialization of SimpleRules");
-		System.out.println(msg);
+		String message = new String( "Intialization of SimpleRules");
+		System.out.println(message);
 
 	
 	}
